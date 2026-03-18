@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "type": "Giao thong",
+    "ward": "Phu Hoi",
+    "status": "new",
+    "rainLevel": "Mua vua"
+  },
+  {
+    "id": 2,
+    "type": "Chay",
+    "ward": "Huong So",
+    "status": "processing",
+    "rainLevel": "Mua to"
+  },
+  {
+    "id": 3,
+    "type": "Trật tự đô thị",
+    "ward": "Phu Xuan",
+    "status": "done",
+    "rainLevel": "Mua nhe"
+  },
+  {
+    "id": 4,
+    "type": "Giao thong",
+    "ward": "Phu Hoi",
+    "status": "new",
+    "rainLevel": "Khong mưa"
+  }
+]
